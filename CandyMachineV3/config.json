@@ -19,6 +19,13 @@
   "shdwStorageAccount": null,
   "pinataConfig": null,
   "hiddenSettings": null,
-  "guards": null,
+  "guards": {
+    "default": {
+      "solPayment": {
+        "value": 0.01,
+        "destination": "4VuvFzEVaZxF9sZQA8tZiLoQJcC2YtgWNyPmtND4yiCN"
+      }
+    }
+  },
   "maxEditionSupply": null
 }

@@ -1,6 +1,6 @@
 {
   "tokenStandard": "nft",
-  "number": 2,
+  "number": 3,
   "symbol": "MUSIC",
   "sellerFeeBasisPoints": 500,
   "isMutable": true,
@@ -19,16 +19,6 @@
   "shdwStorageAccount": null,
   "pinataConfig": null,
   "hiddenSettings": null,
-  "guards": {
-    "default": {
-      "solPayment": {
-        "value": 0.1,
-        "destination": "4VuvFzEVaZxF9sZQA8tZiLoQJcC2YtgWNyPmtND4yiCN"
-      },
-      "startDate": {
-        "date": "2022-10-23T20:00:00Z"
-      }
-    }
-  },
+  "guards": null,
   "maxEditionSupply": null
 }
